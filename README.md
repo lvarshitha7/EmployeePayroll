@@ -69,3 +69,29 @@ Employee [Name : Varshitha, Id : 1, Salary : 1500000.0]
 
 ```bash
 git clone https://github.com/lvarshitha7/EmployeePayroll.git
+```
+
+2. Open the project in IntelliJ IDEA
+
+3. Run `Main.java`
+
+---
+
+## Future Enhancements
+
+- JDBC and MySQL Integration
+- GUI using Java Swing
+- Attendance Management
+- Payslip Generation
+- File Handling Support
+
+---
+
+## Learning Outcomes
+
+- Strong understanding of Core Java
+- Practical implementation of OOP concepts
+- Hands-on experience with Collections Framework
+- Improved problem-solving and application design skills
+
+---
